@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DeadIndian
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning django
-- 💞️ I’m looking to collaborate on nothing
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Innovative Projects
 - 📫 How to reach me dm @deadindian in discord
 - 😄 Pronouns: he/him/dead
 - ⚡ Fun fact: I am Dead
