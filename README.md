@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @GollaBharath
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Innovative Projects
+- 👀 Take a look at my [Resume]{https://gollabharath.github.io/My-Resume/}
 - 📫 How to reach me: DM @deadindian in discord
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a student at KMIT
