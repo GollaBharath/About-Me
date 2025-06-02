@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GollaBharath
-- 👀 Take a look at my [Resume]{https://gollabharath.github.io/My-Resume/}
+- 👀 Take a look at my [Resume](https://gollabharath.github.io/My-Resume/)
 - 📫 How to reach me: DM @deadindian in discord
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a student at KMIT
